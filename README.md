@@ -1,7 +1,7 @@
 # Week-3-Challenge: Election_Analysis
 
 ## Project Purpose:
-Using Python, we will be performing an analysis to analyze the data for an election in Colorado. This analysis will provide the demographics of how the votes are distributed throughout different counties, as well as how votes are scattered between the candidates. We are helping the Election Comission to analyse their data into the election's results. Let's jump into the election analysis and walk through the process.
+Using Python, we will be performing an analysis to analyze the data for an election in Colorado. This analysis will provide the demographics of how the votes are distributed throughout different counties, as well as how votes are scattered between the candidates. We are helping the Election Comission to analyze their data into the election's results. Let's jump into the election analysis and walk through the process.
 
 1. The total number of votes was calculated and displayed.
 2. A list of the candidates was stated.

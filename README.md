@@ -28,7 +28,7 @@ The analysis of the election consisted of the following:
 - The county with the largest number of votes: 
   - Denver
 - The winner of the election was:
-  - Diana DeGette, who received 73.8% of the vote and 272,892 votes.
-  
-## Election Audit Summary: 
-The sctript in this elction audit analysis shows the essential data needed for your publication, this file is a valuable tool for gathering the elections results from the polling data collections. This file can be used as general information, which can be used as a template tailored to your specifications and needs. Name variables can be tailored as the Election Comission sees it fit. On the other side, using this scrip shows how a deeper  analysis can be performed regarding demographics, party lines, age, sex, etc. 
+  - Diana DeGette received 73.8% of the vote and 272,892 votes.
+
+## Election Audit Summary:
+The script in this election audit analysis shows the essential data needed for your publication, this file is a valuable tool for gathering the election results from the polling data collections. This file can be used as general information, which can be used as a template tailored to your specifications and needs. Name variables can be tailored as the Election Comission sees fit. On the other side, using this script shows how a deeper analysis can be performed regarding demographics, party lines, age, sex, etc.

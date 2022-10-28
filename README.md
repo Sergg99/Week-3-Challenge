@@ -10,7 +10,9 @@ Using Python, we will be performing an analysis to analyze the data for an elect
 4. List the percentages of votes each candidate received.
 5. The winner of the election was defined based on vote popularity.
 
-    
+### See Election_Results.txt
+https://github.com/Sergg99/Week-3-Challenge/blob/769942d4e1dd0d9d345fa7e9e9a161bb6a86eefa/Election_analysis/Resources/Election_Results_txtfile.jpg
+![Image 1](https://github.com/Sergg99/Week-3-Challenge/blob/769942d4e1dd0d9d345fa7e9e9a161bb6a86eefa/Election_analysis/Resources/Election_Results_txtfile.jpg)
 
 ## Resources:
 - Software: Python 3.9.7
@@ -18,7 +20,7 @@ Using Python, we will be performing an analysis to analyze the data for an elect
 - Data Source: election_results.csv
 
 ## Summary:
-The analysis of the election consisted of the following:
+The analysis of the election consisted of the following: 
 - There was a Total VotesL of 369,711 in the election
 - The candidates consisted in:
   - Charles Casper Stockham
@@ -32,6 +34,9 @@ The analysis of the election consisted of the following:
   - Denver
 - The winner of the election was:
   - Diana DeGette received 73.8% of the vote and 272,892 votes.
-
+      ### See Python Print-out 
+   https://github.com/Sergg99/Week-3-Challenge/blob/769942d4e1dd0d9d345fa7e9e9a161bb6a86eefa/Election_analysis/Resources/Election_Analysis_Results.jpg
+   ![Image 2](https://github.com/Sergg99/Week-3-Challenge/blob/769942d4e1dd0d9d345fa7e9e9a161bb6a86eefa/Election_analysis/Resources/Election_Analysis_Results.jpg)
+   
 ## Election Audit Summary:
 The script in this election audit analysis shows the essential data needed for your publication, this file is a valuable tool for gathering the election results from the polling data collections. This file can be used as general information, which can be used as a template tailored to your specifications and needs. Name variables can be tailored as the Election Comission sees fit. On the other side, using this script shows how a deeper analysis can be performed regarding demographics, party lines, age, sex, etc.
